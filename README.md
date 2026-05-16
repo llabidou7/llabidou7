@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llabidou7
-- 👀 I’m interested in real estate and becoming an automation QA
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on QA Automation
+- 👀 I am an IAM Analyst/Administrator
+- 🌱 I’m currently working on skilling up to be an IAM Engineer
+- 💞️ One of my hobbies is real estate investing
 - 📫 How to reach me www.linkedin.com/in/👩🏾‍💻-lorna-l-02a795249
 
 <!---
